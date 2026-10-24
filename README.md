@@ -1,5 +1,7 @@
 # 📱 iOS Smart Glasses
 
+**Português** · [Español](README.es.md) · [English](README.en.md)
+
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange)
 ![iOS](https://img.shields.io/badge/iOS-13%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -42,7 +44,7 @@ Um aplicativo iOS criado com **SwiftUI** e o framework **Vision**, com foco em a
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/leitor-ocr-swiftui.git
+   git clone https://github.com/AssistThings/smartglasses-ios.git
    ```
 
 2. Abra o projeto no Xcode:
